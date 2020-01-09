@@ -12,7 +12,7 @@ from googletrans import Translator
 #==============================================================================#
 mulai = time.time()
 
-line = LINE("ENj8IKb2dmuMO68BRCC3.qa8KEI1sb+WqBQ13OoKAiW.GhPZDmKZPI197VSysAAarWZC9s21NDd2hEZ841dBgeM=")
+line = LINE("ENSxy6PqtpIkGHhehSA7.TVNvnXpfHP8nEoCF6/e4nW.pFI0rgUdV0NxtBQ3yvMTx1WMKdbErEEY7c4zxHfYcxU=")
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
