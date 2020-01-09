@@ -12,7 +12,7 @@ from googletrans import Translator
 #==============================================================================#
 mulai = time.time()
 
-line = LINE("EAmGeOOCWFuYq5gH8bS1.oFAdwbsxdvvicAIEyG/cGq.4CcoqqWUTLPAhrpniUfLNwiXEBCx0QFGxaM8rze5Gos=")
+line = LINE("ErzbXhPnCAsXlc6MA7i3.duo4C3Drdvi2rzJhZXuAaW.mkuqhMhfYByBeUBHcwNeGwpTRoaBxBFv5pSbT/yqcMo=")
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
@@ -29,7 +29,7 @@ lineProfile = line.getProfile()
 Bots = [lineMID]
 lineSettings = line.getSettings()
 
-admin =["u39f6835814970d554809a89e620f8281","ua49645de5bf35bec5fe7428089801737"]
+admin =["ub6f9d53713c5869f0d78e71febe13837"]
 
 oepoll = OEPoll(line)
 
