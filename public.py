@@ -12,7 +12,7 @@ from googletrans import Translator
 #==============================================================================#
 mulai = time.time()
 
-line = LINE("EAmGeOOCWFuYq5gH8bS1.oFAdwbsxdvvicAIEyG/cGq.4CcoqqWUTLPAhrpniUfLNwiXEBCx0QFGxaM8rze5Gos=")
+line = LINE("ENHBjVQgF8nFPJVUpK09.TvUc1/f+yhy6QXOfIQLUwq.EqysoLqSrYJz683wH8rLJLIbUsvF0KDQTgunZnrC2so=")
 line.log("Auth Token : " + str(line.authToken))
 line.log("Timeline Token : " + str(line.tl.channelAccessToken))
 
@@ -67,7 +67,7 @@ settings = {
     "tag3": "Ada apasih ka Pm mulu",
     "detectMention": False,
     "autorejc": False,
-    "welcome":"sᴇᴍᴏɢᴀ ʙᴇᴛᴀʜ ʏᴀ...\nsᴀʟᴀᴍ ᴋᴇɴᴀʟ ᴅᴀʀɪ sᴀʏᴀ 😘",
+    "welcome":"哈囉🙋♀️ @! 歡迎進群的朋友💕\n這裡是我個人的購物賣場🛒\n是個輕鬆逛開心買的小天地😊\n\n🔻進群須先注意以下幾點🔻\n1️⃣ 右上角選單請先關閉提醒🔇\n2️⃣ 記事本和相簿裡的商品可先逛逛看看👀\n3️⃣ 相簿裡的“購物須知”記得先看❗\n4️⃣ 有想找的商品歡迎上傳圖片到”許願商品“相簿\n5️⃣ 有任何問題歡迎踴躍詢問 不要客氣😉\n6️⃣ 請勿在群裡Po跟商品無相關的圖片資訊⛔\n7️⃣ 小本經營💰請先匯款轉帳完成 我才方便作業🙏\n📑下單流程：匯款👉訂貨👉備貨👉出貨\n\n🙌再次謝謝您的加入 也希望能服務到您🙌\n🎉祝您有個愉快的心情購物🛍",
     "responpc": "Tag terus",
     "checkSticker": False,
     "TagMention": False,
